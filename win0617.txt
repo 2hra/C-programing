@@ -1,0 +1,10 @@
+1: ; for 16-bit app support
+2: [fonts]
+3: [extensions]
+4: [mci extensions]
+5: [files]
+6: [Mail]
+7: MAPI=1
+8: [ResponseResult]
+9: ResultCode=0
+
